@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Kaleb-N/Kaleb-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You are welcome to my world. 👋
 
-Here are some ideas to get you started:
+I am Mohammed Dwina, I am a JavaScript software engineer. 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am crazy about coding, problems solving and team collaboration. 💜
+
+I like to create, build and making new things, briefly I like discovering new useful things. 🏡
+
+I also like a social gathering, meet new friends, watching films, football and go to the gym. ⚽ 📽️
+
+Feel free to get in touch. 🤙
